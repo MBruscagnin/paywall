@@ -1,2 +1,2 @@
 # paywall
-## Eluding paywall in some italian online newspaper site
+## Circumventing the paywall on some Italian online newspaper sites
