@@ -1,8 +1,7 @@
 import os
 import urllib.request as r
-page = r.urlopen(input("Inserisci URL dell'articolo de LA NUOVA VENEZIA da leggere: "))
+page = r.urlopen(input("Inserisci URL dell'articolo da leggere: "))
 
-#string = input("Inserisci URL dell'articolo da leggere: ")
 string = page.read().decode('utf8')
 
 # @return prima posizione marker di inizio
